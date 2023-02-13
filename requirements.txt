@@ -9,3 +9,5 @@ PySocks @ file:///Users/ktietz/ci_310/pysocks_1643961536721/work
 PyYAML @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_8dd_9u21zz/croot/pyyaml_1670514759576/work
 selenium @ file:///Users/ktietz/ci_310/selenium_1643975070522/work
 urllib3 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_8fvc4z_gis/croot/urllib3_1673575619550/work
+yaml~=0.2.5
+pyyaml~=6.0
