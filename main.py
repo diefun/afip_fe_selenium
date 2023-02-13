@@ -11,7 +11,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 from selenium.webdriver.support.ui import Select
 
-# Datoss
+# Datos
 with open('datos.yaml', 'r') as datos:
     datos_usuario = yaml.safe_load(datos)
 
